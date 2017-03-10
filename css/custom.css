@@ -1,0 +1,7 @@
+.no-margin {
+  margin: 0 !important;
+}
+
+.reveal small {
+  font-size: 0.5em;
+}
