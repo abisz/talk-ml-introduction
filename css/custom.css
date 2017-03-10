@@ -5,3 +5,9 @@
 .reveal small {
   font-size: 0.5em;
 }
+
+.centerimage.centerimage {
+  display: block;
+  margin: 0 auto 1em;
+  max-width: 60%;
+}
