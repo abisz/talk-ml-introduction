@@ -11,3 +11,15 @@
   margin: 0 auto 1em;
   max-width: 60%;
 }
+
+footer {
+  position: fixed;
+  bottom: 1em;
+  left: 1em;
+}
+
+footer a {
+  text-decoration: none;
+  font-family: "Source Sans Pro", Helvetica, sans-serif;
+  color: black;
+}
