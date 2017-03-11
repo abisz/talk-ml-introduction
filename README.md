@@ -1,6 +1,8 @@
 # Introduction to Machine Learning
 This presentation is made with [reveal.js](https://github.com/hakimel/reveal.js).
 
+A live version of this presentation can be found [here](https://abisz.github.io/talk-ml-introduction/#/).
+
 ## Getting Started
 ```
 # Installing dependencies
