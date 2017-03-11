@@ -28,5 +28,12 @@ One little note: Some parts are very mathematical because the professor proves t
 ### Reinforcement Learning
 - [Introductory Post](https://deeplearning4j.org/reinforcementlearning.html) the title says 'for Java', but don't let that scare you, it's not about actual code.
 
+### Genetic Learning Algorithm
+- [Blogpost](http://burakkanber.com/blog/machine-learning-genetic-algorithms-part-1-javascript/) describing the principles of genetic learning algorithms. Includes a simple implementation in javascript.
+
+### Perceptron Learning Algorithm (PLA)
+- [This](https://www.youtube.com/watch?v=rpxOVwKy3sc) mini episode of Data sceptic (a podcast about ML and other data related topics) covers the PLA in a simple and comprehensive way.
+- I wrote a [blogpost](www.piedcode.com/introduction-to-machine-learning/) which explains the idea of the PLA with a basic implementation in R.
+
 ### R
 - [Datacamp](https://www.datacamp.com/) is a learning platform that offers interactive tutorials for data related coding (basically python and R). For most courses you have to pay but [this introduction course](https://www.datacamp.com/courses/free-introduction-to-r) is for free.
