@@ -5,6 +5,7 @@ This presentation is made with [reveal.js](https://github.com/hakimel/reveal.js)
 ```
 # Installing dependencies
 npm install
+bower install
 
 # Starting local server
 npm start
