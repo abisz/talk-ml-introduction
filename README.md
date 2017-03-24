@@ -38,5 +38,8 @@ One little note: Some parts are very mathematical because the professor proves t
 ### Deep Neural Networks
 - Gentle introduction [video presentation](https://www.youtube.com/watch?v=ILsA4nyG7I0) on the principles of deep neural networks.
 
+### Ensemble Learning
+- [Blogpost](http://mlwave.com/kaggle-ensembling-guide/) explaining the basic idea of ensemble learning and shows use cases for kaggle competitions.
+
 ### R
 - [Datacamp](https://www.datacamp.com/) is a learning platform that offers interactive tutorials for data related coding (basically python and R). For most courses you have to pay but [this introduction course](https://www.datacamp.com/courses/free-introduction-to-r) is for free.
