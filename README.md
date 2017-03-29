@@ -38,6 +38,9 @@ One little note: Some parts are very mathematical because the professor proves t
 ### Deep Neural Networks
 - Gentle introduction [video presentation](https://www.youtube.com/watch?v=ILsA4nyG7I0) on the principles of deep neural networks.
 
+### Transfer Learning
+- Exhaustive [introduction](http://sebastianruder.com/transfer-learning/) into the basic idea, current state and potential of transfer learning - methods to use the knowledge of a ML application in one domain to accelerate the training process in another one. 
+
 ### Ensemble Learning
 - [Blogpost](http://mlwave.com/kaggle-ensembling-guide/) explaining the basic idea of ensemble learning and shows use cases for kaggle competitions.
 
