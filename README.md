@@ -35,5 +35,14 @@ One little note: Some parts are very mathematical because the professor proves t
 - [This](https://www.youtube.com/watch?v=rpxOVwKy3sc) mini episode of Data sceptic (a podcast about ML and other data related topics) covers the PLA in a simple and comprehensive way.
 - I wrote a [blogpost](www.piedcode.com/introduction-to-machine-learning/) which explains the idea of the PLA with a basic implementation in R.
 
+### Deep Neural Networks
+- Gentle introduction [video presentation](https://www.youtube.com/watch?v=ILsA4nyG7I0) on the principles of deep neural networks.
+
+### Transfer Learning
+- Exhaustive [introduction](http://sebastianruder.com/transfer-learning/) into the basic idea, current state and potential of transfer learning - methods to use the knowledge of a ML application in one domain to accelerate the training process in another one. 
+
+### Ensemble Learning
+- [Blogpost](http://mlwave.com/kaggle-ensembling-guide/) explaining the basic idea of ensemble learning and shows use cases for kaggle competitions.
+
 ### R
 - [Datacamp](https://www.datacamp.com/) is a learning platform that offers interactive tutorials for data related coding (basically python and R). For most courses you have to pay but [this introduction course](https://www.datacamp.com/courses/free-introduction-to-r) is for free.
